@@ -1,10 +1,10 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.owner = ["6285742632270"];
-global.author = "RezaDevv";
+global.owner = ["62895393665328"];
+global.author = "MunzStore";
 global.packname = "Push-Kontak";
-global.sessionName = "Bot-Session";
+global.sessionName = "Bot-Munz";
 global.versionbot = "1.2.0";
 global.mess = {
     wait: "Loading...",
